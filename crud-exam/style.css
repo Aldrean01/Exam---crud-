@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+}
+
+.tickcontainer {
+    width: 500px;
+    background:  #ffffff;
+    border-radius: 10px;
+    overflow: hidden;
+    text-transform: uppercase;  
+    position: relative;
+    top: 25px;
+    left: 30%;
+    margin: 10px;
+    border: 1px solid #000000;
+    text-align: center;
+    
+}
+.form {
+    margin: 20px;
+}
